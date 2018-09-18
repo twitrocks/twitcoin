@@ -1,0 +1,34 @@
+src/*.exe
+src/twitcoin
+src/twitcoind
+src/test_twitcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.twitcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+twitcoin-qt
+Twitcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+twitcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
