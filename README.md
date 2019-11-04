@@ -12,22 +12,22 @@ Copyright (c) 2018 Twitcoin Developers
 What is Twitcoin?
 ----------------
 ![GitHub Logo](/src/qt/res/icons/bitcoin.png) <br>
-Coin Name: Twitcoin 
-Ticker: TWIT
-Algorithm: Script
+Coin Name: Twitcoin <br>
+Ticker: TWIT <br>
+Algorithm: Script <br>
 Type: PoW
 
-Maximum Coin Supply: 330.000.000
-Premine: 33.000.000 
+Maximum Coin Supply: 330.000.000 <br>
+Premine: 33.000.000 <br>
 Useage: Team, Airdrops, Bounties (Marketing, Design, Etc.)
 
-Block time: 30 seconds
-Maturity: 30 Blocks
+Block time: 30 seconds <br>
+Maturity: 30 Blocks <br>
 Difficulty Re-adjustment: 330 Blocks
 
-Block rewards: 
-Phase 1 - Premine (Block 1) 33.000.000 TWIT
-Phase 2 - PoW (Block 2-1337) .50 TWIT
+Block rewards: <br>
+Phase 1 - Premine (Block 1) 33.000.000 TWIT <br>
+Phase 2 - PoW (Block 2-1337) .50 TWIT <br>
 Phase 3 - PoW (Block 1338+) 30 TWIT
 
 For more information, as well as an immediately useable, binary version of
