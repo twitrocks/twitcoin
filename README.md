@@ -1,15 +1,17 @@
+![GitHub Logo](/src/qt/res/images/splash.png)
+
 Twitcoin integration/staging tree
 ================================
 
 http://www.twit.rocks
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2009-2014 Bitcoin Developers <br>
+Copyright (c) 2011-2014 Litecoin Developers <br>
 Copyright (c) 2018 Twitcoin Developers
 
 What is Twitcoin?
 ----------------
-
+![GitHub Logo](/src/qt/res/icons/bitcoin.png) <br>
 Coin Name: Twitcoin 
 Ticker: TWIT
 Algorithm: Script
