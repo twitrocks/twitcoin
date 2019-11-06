@@ -14,7 +14,7 @@ What is Twitcoin?
 ![GitHub Logo](/src/qt/res/icons/bitcoin.png) <br>
 Coin Name: Twitcoin <br>
 Ticker: TWIT <br>
-Algorithm: Script <br>
+Algorithm: Scrypt <br>
 Type: PoW
 
 Maximum Coin Supply: 330.000.000 <br>
