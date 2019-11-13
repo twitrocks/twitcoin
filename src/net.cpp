@@ -1174,6 +1174,9 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
     {NULL, NULL}
+    {twit.rocks, seed1.twit.rocks}
+    {twit.rocks, seed2.twit.rocks}
+    {twit.rocks, seed3.twit.rocks}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
